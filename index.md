@@ -1,12 +1,3 @@
----
-title: BoardGameMate Privacy Policy
-layout: default
----
-
-<style>
-@import url("/BoardGameMatePrivacy/assets/css/custom.css");
-</style>
-
 # Privacy Policy for BoardGameMate
 _Last updated: May 31, 2025_
 

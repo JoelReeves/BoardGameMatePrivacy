@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/BoardGameMatePrivacy/assets/css/custom.css">
+
 # Privacy Policy for BoardGameMate
 _Last updated: May 31, 2025_
 

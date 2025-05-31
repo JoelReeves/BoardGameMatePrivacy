@@ -1,0 +1,2 @@
+# BoardGameMatePrivacy
+BoardGameMate privacy policy
